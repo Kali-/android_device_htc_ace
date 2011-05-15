@@ -84,7 +84,6 @@ PRODUCT_COPY_FILES += \
     device/htc/ace/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
     device/htc/ace/keylayout/h2w_headset.kl:system/usr/keylayout/h2w_headset.kl \
     device/htc/ace/keylayout/qwerty.kl:system/usr/keylayout/qwerty.kl \
-    device/htc/ace/keylayout/spade-keypad-v0.kl:system/usr/keylayout/spade-keypad-v0.kl \
     device/htc/ace/keylayout/spade-keypad.kl:system/usr/keylayout/spade-keypad.kl
 
 # Firmware
